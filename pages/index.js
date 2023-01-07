@@ -24,7 +24,8 @@ export default function Home({ allPostsData }) {
         <p>
           Hello! I am Ibnul. I am a software engineer working with Javascript,
           MERN and Wordpress. Currently doing a full time job at Engineering
-          Studio Denver. You can contact me on&nbsp;
+          Studio Denver. Also working partime on Upwork and Fiverr. You can
+          contact me on&nbsp;
           <a href="https://www.linkedin.com/in/ibnul-ferdous/" target="_blank">
             Linkedin
           </a>
